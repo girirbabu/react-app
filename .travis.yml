@@ -7,3 +7,7 @@ before_install:
 
 script:
   - docker run -e CI=true girish/react-app npm run test
+<<<<<<< HEAD
+=======
+
+>>>>>>> 827a77796b2000b9cc0a57b80c3f7df6b3f03450
